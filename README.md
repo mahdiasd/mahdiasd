@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there 👋, I'm Mahdi Asadollahpour!
 
 I'm a Software Developer, currently working at Manshour Fanavari (IFTP). I love working on Android apps with Java and Kotlin, as well as building websites with Spring Boot and creating REST APIs using Spring Boot.
