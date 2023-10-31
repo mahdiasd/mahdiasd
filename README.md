@@ -13,7 +13,6 @@ I'm a Software Developer, currently working at Manshour Fanavari (IFTP). I love 
 ## 🌱 What I'm currently learning
 
 - Kotlin Multiplatform
-- Jetpack Compose
 
 ## 📫 How to reach me
 
