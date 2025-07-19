@@ -1,20 +1,43 @@
-# Hi there 👋, I'm Mahdi Asadollahpour!
+<h1 align="center">Hi, I'm Mahdi Asadollahpour 👋</h1>
 
-I'm a Software Developer, currently working at Manshour Fanavari (IFTP). I love working on Android apps with Java and Kotlin, as well as building websites with Spring Boot and creating REST APIs using Spring Boot.
+<p align="center">
+  👨‍💻 Android & Cross-platform Mobile Developer | 💡 Tech Explorer | 🇮🇷 Based in Iran
+</p>
 
-## 🔭 My Interests and Skills
-- Create Jetpack Compose app | Stateless and skippable functions
-- Android app development with Java and Kotlin
-- AR development for application
-- Glasses app development
-- Website development with Spring Boot
-- Create REST APIs using Spring Boot
+---
 
-## 🌱 What I'm currently learning
+### 🔧 About Me
 
-- Kotlin Multiplatform
+I'm an accomplished Android Developer with 6 years of hands-on experience.  
+I started with Java and gradually evolved to Kotlin, Jetpack Compose, and Flutter to craft modern, scalable, and user-focused mobile applications.
 
-## 📫 How to reach me
+During my military service, I contributed to smart-glass projects and built secure applications for industrial environments in a knowledge-based company.
 
-- Telegram: https://t.me/mahdiasd96
-- LinkedIn: https://www.linkedin.com/in/mahdiasd96/
+I'm passionate about learning, adapting to cutting-edge technologies, and solving real-world problems through clean, modular architecture.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Kotlin, Dart, Java, SQL
+- **Frameworks:** Jetpack Compose, Flutter, Ktor, Spring Boot
+- **Database:** PostgreSQL, MySQL
+- **Architectures:** Clean Architecture, MVI, Multi-module
+- **Tools:** Hilt, Coroutines, Flow, WebRTC, WebSocket, OpenStreetMap, Google Maps
+
+---
+
+
+### 📫 Connect With Me
+
+- 📧 Email: [mahdiasd76@gmail.com](mailto:mahdiasd76@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/mahdiasd96](https://linkedin.com/in/mahdiasd96)
+- 📱 Android Apps:  
+  [Proco](https://play.google.com/store/apps/details?id=com.proco.app) | 
+  [Fitab](https://cafebazaar.ir/app/ir.manshor.video.fitab) | 
+  [Poco](https://cafebazaar.ir/app/app.pocobook.hm)
+
+---
+
+> 🧠 _"While I don’t claim to know it all, I’m committed to learning, adapting, and staying at the cutting edge of software development."_
+
