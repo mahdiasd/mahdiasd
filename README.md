@@ -33,9 +33,13 @@ I'm passionate about learning, adapting to cutting-edge technologies, and solvin
 - 📧 Email: [mahdiasd76@gmail.com](mailto:mahdiasd76@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/mahdiasd96](https://linkedin.com/in/mahdiasd96)
 - 📱 Android Apps:  
-  [Proco](https://play.google.com/store/apps/details?id=com.proco.app) | 
-  [Fitab](https://cafebazaar.ir/app/ir.manshor.video.fitab) | 
   [Poco](https://cafebazaar.ir/app/app.pocobook.hm)
+
+  [AI Speaking]([https://cafebazaar.ir/app/app.pocobook.hm](https://cafebazaar.ir/app/ir.aispeaking))
+  
+  [Proco](https://play.google.com/store/apps/details?id=com.proco.app) | 
+  
+  [Fitab](https://cafebazaar.ir/app/ir.manshor.video.fitab) | 
 
 ---
 
