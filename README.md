@@ -35,7 +35,7 @@ I'm passionate about learning, adapting to cutting-edge technologies, and solvin
 - 📱 Android Apps:  
   [Poco](https://cafebazaar.ir/app/app.pocobook.hm)
 
-  [AI Speaking]([https://cafebazaar.ir/app/app.pocobook.hm](https://cafebazaar.ir/app/ir.aispeaking))
+  [AI Speaking](https://cafebazaar.ir/app/ir.aispeaking)
   
   [Proco](https://play.google.com/store/apps/details?id=com.proco.app) | 
   
