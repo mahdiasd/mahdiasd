@@ -107,7 +107,7 @@ I am an accomplished **Mobile Application Engineer** with **6+ years** of hands-
       <img src="./assets/fitab.webp" width="80" height="80" alt="Fitab Logo" style="border-radius: 18px;" />
     </td>
     <td>
-      <h3 style="margin: 0;">Fitab (فیتاب)</h3>
+      <h3 style="margin: 0;">Fitab (فیتب)</h3>
       <p>
         <img src="https://img.shields.io/badge/Native_Android-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/ExoPlayer-Media3-E11D48?style=flat-square" />
